@@ -9,7 +9,9 @@
     }
     /* Dep */
     header {
-        
+        display: flex;
+        flex-direction: column;
+        align-items: center;
         padding: .8rem 5vw ;
         position: fixed;
         width: 90vw;
@@ -17,38 +19,17 @@
         left: 0;
         background-color: rgba(114, 170, 219, 0.616);
     }
+
     section.hero,
     section.hero * {
         outline: 1px red dahed
     }
-    header button {
-        padding: .5rem 1rem;
-        border: none;
-        background: transparent;
-        font-weight: 600;
-        cursor: pointer;
-        transition: .3s ease-in-out;
-        height: 6vh;
-        border-bottom: 2px transparent;
-
-        &:hover {
-            background-color: rgba(152, 231, 231, 0.662);
-            border-bottom: 2px rgb(0, 42, 255) solid;
-        }
-
-        &:active {
-            transition: .1s ease-in-out;
-            color: white;
-            background-color: rgba(9, 58, 58, 0.662);
-            border-bottom: 2px rgb(0, 42, 255) solid;
-        }
-    }
-
+    
     section.hero {
         display: flex;
         margin: .3rem 5vw 0;
         height: 94vh;
-        padding-top: 5vh;
+        padding-top: 11vh;
 
         & .right{
             width: 70vh;
@@ -57,6 +38,7 @@
         & .left{
             width: 130vh
         }
+        
     }
 
     section.hero .left {
@@ -93,3 +75,5 @@
         object-fit: cover;
         object-position: top;
     }
+
+    section.hero .t
