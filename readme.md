@@ -108,8 +108,11 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Reference Website | This is where I based my website. This site looked really good, and fun to recreate | https://lmpixels.com/demo/breezycv/dark/1/index.html#resume |
 | Fonts | Have better looking fonts that can make the website look cleaner. | https://fonts.google.com/.
 | Icons and logo | To have Icons such as the home icon, contact icon, Facebook logo, Twitter logo, etc. | https://fontawesome.com/
 | Instagram | Instagram logo with a gradient color. | https://codepad.co/snippet/instagram-icon-gradient-with-font-awesome |
 | Background Image | Make the website look better. | https://unsplash.com/photos/blue-paint-splash-Lki74Jj7H-U |
+| Skill Bar | Made the languages, and skills more pleasing to the eye. | https://www.w3schools.com/howto/howto_css_skill_bar.asp |
+| Gradient Color for the skill bars | The gradient showed the users how much percent is in terms of the colors. | https://cssgradient.io/ |
+| Contact Form | To make the default input text look better. | https://www.youtube.com/watch?v=524ycUqs3f0&t=804s |

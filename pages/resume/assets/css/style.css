@@ -1,0 +1,358 @@
+* {     /*THIS IS FOR RESUME*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+    width: auto;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/assets/img/pawel-czerwinski-Lki74Jj7H-U-unsplash.jpg);
+}
+
+.innerContainer{
+    display: flex;
+    flex-wrap: wrap;
+    height: 80vh;
+    width: 130vh;
+    flex-direction: column;
+    border-radius: 40px;
+}
+
+.middleinnerContainer {
+    display: flex;
+    background: #F2F2F2;
+    width: 115vh;
+    border-radius: 40px;
+}
+
+.leftContainer {
+    display: flex;
+    height: 80vh;
+    width: 35%;
+    flex-direction: column;
+    align-items: flex-start;
+    background: #2C3E50;
+    border-radius: 40px;
+}
+.imgSection{
+    display: flex;
+    width: 100%;
+    height: 30%;
+    margin-top: 60px;
+    justify-content: center;
+}
+.image {
+    border-radius: 160px;
+}
+.fullName, .occupation{
+    display: flex;
+    width: 100%;
+    font-size: larger;
+    /*background-color: aquamarine;*/
+    margin-top: 10px;
+    justify-content: center;
+    color: #F2F2F2; 
+}
+
+.socials{
+    display: flex;
+    height: 32px;
+    width: 100%;
+    /*background: tomato;*/
+    margin-top: 10px;
+    justify-content: space-evenly;
+}
+
+.socials .facebookDiv{
+    height: 28px;
+    width: 28px;
+    padding-left: 7px;
+    margin-top: 1px;
+    font-size: 20px;
+    background-color: #0866ff;
+    color: white;
+    border-radius: 160px;
+    cursor: pointer;
+}
+
+.facebookDiv:hover {
+    color: rgba(255, 255, 255, 0.808);
+    background-color: #0867ff9d;
+}
+
+.socials .fab { /*instagram*/
+    font-size:30px;
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.fab:hover {
+    cursor: pointer;
+}
+
+
+.socials .twitter{
+    color: #1DA1F2;
+
+}
+
+.twitter:hover {
+    cursor: pointer;
+    color: #1da0f2be;
+}
+
+.rightContainer {
+    display: flex;
+    height: 80vh;
+    width: 5%;
+    border-radius: 40px;
+    flex-direction: column;
+    margin-bottom: 15px;
+
+}
+
+.topRightContainer {
+    display: flex;
+    height: 40vh;
+    width: 100%;
+    border-radius: 50px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #2C3E50;
+}
+
+.navbar a.active {
+    color: white;
+    }
+
+.navbar a:hover:not(.active) {
+    color: rgba(118, 171, 190, 0.562);
+}
+
+.navbar ul{
+    list-style-type: none;
+}
+
+.navbar ul li {
+    margin-bottom: 100%; 
+}
+
+.navbar a {
+    color: rgb(118, 171, 190);
+    text-decoration: none;
+    display: block;
+}
+
+.navbar a:hover {
+    color: rgba(255, 255, 255, 0.74);
+}
+
+.fa-house {
+   margin-top: 20px;
+   font-size: 25px;
+   padding-left: 4px;
+   border-radius: 160px;
+}
+
+.fa-graduation-cap {
+    font-size: 25px;
+    padding-left: 3px;
+ }
+
+
+.fa-user {
+    font-size: 25px;
+    padding-left: 7px;
+ }
+
+ .fa-envelope {
+    font-size: 25px;
+    padding-left: 6px;
+ }
+
+
+.bottomRightContainer {
+    display: flex;
+    margin-top: 30vh;
+    height: 15vh;
+    border-radius: 50px;
+    background: #2C3E50;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.backforward ul{
+    list-style-type: none;
+}
+
+.backforward a {
+    color: rgb(118, 171, 190);
+    text-decoration: none;
+}
+
+.backforward a:hover {
+    cursor: pointer;
+    color: rgba(118, 171, 190, 0.603);
+}
+
+.rightInnerContainer {
+    display: flex;
+    width: 65%;
+    /*background: red;*/
+    border-radius: 40px;
+    flex-direction: column;
+}
+
+.upperText{
+    /*background: blue;*/
+    color: #2C3E50;
+    height: 15%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.resume {
+    padding-top: 30px;
+    font-size: 35px;
+}
+
+.skillContainer {
+    width: 100%;
+    background-color: #ddd;
+    border-radius: 40px;
+}
+
+.skills{
+    text-align: right;
+    padding-right: 10px;
+    border-radius: 40px;
+    color: white;
+}
+.tagalog {
+    width: 100%;
+    background: rgb(44,62,80);
+    background: linear-gradient(90deg, rgba(44,62,80,1) 0%, rgba(44,62,80,1) 100%);
+}
+.english {
+    width: 90%;
+    background: rgb(44,62,80);
+    background: linear-gradient(90deg, rgba(44,62,80,1) 0%, rgba(44,62,80,0.8995973389355743) 100%);
+}
+
+.graphicDes {
+    width: 50%;
+    background: rgb(44,62,80);
+    background: linear-gradient(90deg, rgba(44,62,80,1) 0%, rgba(44,62,80,0.5018382352941176) 100%);
+}
+
+.logoDes {
+    width: 40%;
+    background: rgb(44,62,80);
+    background: linear-gradient(90deg, rgba(44,62,80,1) 0%, rgba(44,62,80,0.39539565826330536) 100%);
+}
+
+.webDes,
+.cpp,
+.htmlcss {
+    width: 70%;
+    background: rgb(44,62,80);
+    background: linear-gradient(90deg, rgba(44,62,80,1) 0%, rgba(44,62,80,0.5998774509803921) 100%);
+}
+
+.education,
+.experience,
+.language,
+.designSkills,
+.codingSkills {
+    font-size: 25px;
+    color: #333333;
+}
+.education {
+    
+}
+.experience {
+    
+}
+.language {
+    padding-top: 5px;
+    padding-left: 90px;
+}
+.designSkills,
+.codingSkills {
+    padding-left: 40px;
+}
+
+.middleTextContainer {
+    width: 100%;
+    height: 5%;
+    /*background: pink;*/
+    display: flex;  
+    justify-content: space-around;
+}
+
+.lowerTextContainer {
+    display: flex;
+    height:81%;
+}
+
+.leftTextContainer {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    display: flex;
+    /*background: aliceblue;*/
+    width: 49.5%;
+    height: 100%;
+    flex-direction: column;
+    color: #333333;
+}
+.bachelor,
+.shs,
+.lang,
+.designThings {
+    color: #333333;
+    font-size: 18px;
+}
+.univ,
+.school{
+    font-size: 16px;
+}
+
+.univSY{
+    padding-bottom: 30px;
+}
+
+.innerMiddleTextContainer {
+    display: flex;
+    background: #6082B6;
+    height: 90%;
+    width: 1%;
+    border-radius: 40px;
+}
+
+.rightTextContainer {
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    /*background: greenyellow;*/
+    width: 49.5%;
+    height: 100%;
+    flex-direction: column;
+}
+
+.fillSpace {
+    /*background: blueviolet;*/
+    height: 30%;
+}
