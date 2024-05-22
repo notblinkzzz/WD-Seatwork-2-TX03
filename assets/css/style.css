@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, sans-serif;
+    font-family: Poppins, sans-serif;
 }
 
 .container {
@@ -10,7 +10,6 @@
     height: 100vh;
     width: auto;
     flex-wrap: wrap;
-    flex-grow: 1;
     justify-content: center;
     align-items: center;
     background-image: url(/assets/img/pawel-czerwinski-Lki74Jj7H-U-unsplash.jpg);
