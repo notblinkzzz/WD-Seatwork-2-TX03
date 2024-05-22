@@ -1,0 +1,51 @@
+/*THIS IS FOR CONTACT*/
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+    width: auto;
+    background: purple;
+}
+
+.leftContainer{
+    display: flex;
+    width: 30%;
+    background: blue;
+}
+
+.rightContainer {
+    display: flex;
+    width: 70%;
+    flex-direction: column;
+}
+
+.topContainer {
+    display: flex;
+    height: 33.33%;
+    background: red;
+}
+
+.midContainer {
+    display: flex;
+    height: 33.33%;
+    background: green;
+}
+
+
+.botContainer {
+    display: flex;
+    height: 33.33%;
+    background: pink;
+}
+
+
+
+
