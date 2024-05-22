@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"/>
+</head>
+<body>
+    <div class="outerContainer">
+        <div class="innerContainer">
+            <nav class = "navbar">
+                <ul>
+                    <li><a href=""><i class="fa-solid fa-graduation-cap fa-2x"></i></a></li>
+                    <li><a href=""><i class="fa-solid fa-user fa-2x"></i></a></li>
+                    <li><a href=""><i class="fa-solid fa-envelope fa-2x"></i></a></li>
+                </ul>
+            </nav>
+
+            <div class="leftContainer">
+                <p>leftContainer4pc</p>
+            </div>
+            <div class="middleContainer">
+                <p>middleContainer4pc</p>
+            </div>
+            <div class="rightContainer">
+                <p>rightContainer4pc</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+* {
+    box-sizing:border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+    width: auto;
+
+}
+.outerContainer {
+    background-image: url(/assets/img/pawel-czerwinski-Lki74Jj7H-U-unsplash.jpg);
+    width: 100vh;
+}
+
+.innerContainer {
+    display: flex;
+    height: 100%;
+    background: lightblue;
+    flex-direction: column;
+}
+
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar ul {
+    list-style-type: none;
+    background-color: goldenrod;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar li {
+    display: flex;
+    align-items: center;
+}
+
+.navbar a {
+    color: white;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+
+.navbar a:hover {
+    background-color: white;
+}
+
+
+
+.leftContainer {
+    background: lightgreen
+}
+
+.rightContainer {
+    background: lightsalmon
+}
+
+@media only screen and (min-width: 380px) {  /*phone*/
+
+}
+
+@media only screen and (min-width: 600px) {  /*tablet*/
+
+}
+
+
+@media only screen and (min-width: 768px){  /*desktop*/
+
+}
+
+
+
