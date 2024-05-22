@@ -23,7 +23,7 @@
     flex-wrap: wrap;
     height: 80vh;
     width: 130vh;
-    background: grey;
+    /*background: grey;*/
     flex-direction: column;
     border-radius: 40px;
 }
@@ -81,12 +81,13 @@
     background-color: #0866ff;
     color: white;
     border-radius: 160px;
+    cursor: pointer;
 }
 
-.facebook:hover {
-    cursor: pointer;
+.facebookDiv:hover {
     color: rgba(255, 255, 255, 0.808);
-    background-color: #0867ffa9;
+    background-color: #0867ff9d;
+
 }
 
 .socials .fab { /*instagram*/
