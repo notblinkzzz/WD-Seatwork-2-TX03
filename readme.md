@@ -113,6 +113,6 @@ WD-ProjectName
 | Instagram | Instagram logo with a gradient color. | https://codepad.co/snippet/instagram-icon-gradient-with-font-awesome |
 | Background Image | Make the website look better. | https://unsplash.com/photos/blue-paint-splash-Lki74Jj7H-U |
 | Skill Bar | Made the languages, and skills more pleasing to the eye. | https://www.w3schools.com/howto/howto_css_skill_bar.asp |
-| Gradient Color for the skill bars | The gradient showed the users how much percent is in terms of the colors. | https://cssgradient.io/ |
+| Gradient Color for the skill bars | The gradient color is designed to visually represent the proficiency level of various skills in a way that is easily understandable. | https://cssgradient.io/ |
 | Contact Form | To make the default input text look better. | https://www.youtube.com/watch?v=524ycUqs3f0&t=804s |
 | Pagination | To have the ability to traverse the website. | https://www.youtube.com/watch?v=6ff96BkWqmg&t=196s |
