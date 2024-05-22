@@ -61,27 +61,51 @@
 
 .socials{
     display: flex;
-    height: auto;
+    height: 32px;
     width: 100%;
     background: tomato;
     margin-top: 10px;
     justify-content: space-evenly;
 }
 
-.socials .facebook{
-    color: #0866ff;
-    background-color: white;
-    border-radius: 100%;
+.socials .facebookDiv{
+    height: 28px;
+    width: 28px;
+    padding-left: 7px;
+    margin-top: 1px;
+    font-size: 20px;
+    background-color: #0866ff;
+    color: white;
+    border-radius: 160px;
 }
 
-.socials .instagram {
-    background: radial-gradient(circle at 33% 100%, #fed373 4%, #f15245 30%, #d92e7f 62%, #9b36b7 85%, #515ecf);;
-    border-radius:  25% ;
+.facebook:hover {
+    cursor: pointer;
+    color: rgba(255, 255, 255, 0.808);
+    background-color: #0867ffa9;
 }
+
+.socials .fab { /*instagram*/
+    font-size:30px;
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.fab:hover {
+    cursor: pointer;
+}
+
 
 .socials .twitter{
     color: #1DA1F2;
 
+}
+
+.twitter:hover {
+    cursor: pointer;
+    color: #1da0f2be;
 }
 
 .rightContainer {
@@ -90,6 +114,7 @@
     width: 5%;
     border-radius: 40px;
     flex-direction: column;
+    margin-bottom: 15px;
 
 }
 
@@ -104,27 +129,54 @@
     background: #326273;
 }
 
+.navbar a.active {
+    color: white;
+    }
+
+.navbar a:hover:not(.active) {
+    color: #36454f77;
+}
+
 .navbar ul{
     list-style-type: none;
 }
 
+.navbar ul li {
+    margin-bottom: 100%; /* Adjust this value to control the spacing */
+}
+
 .navbar a {
-    color: rgb(255, 255, 255);
+    color: #36454F;
     text-decoration: none;
     display: block;
 }
 
 .navbar a:hover {
-    color: rgba(255, 255, 255, 0.50);
+    
 }
 
 .fa-house {
-   /* margin-top: 30px;*/
+   margin-top: 20px;
+   font-size: 25px;
+   padding-left: 4px;
+   border-radius: 160px;
 }
 
-.fa-envelope {
-   /* margin-bottom: 30px;*/
-}
+.fa-graduation-cap {
+    font-size: 25px;
+    padding-left: 3px;
+ }
+
+
+.fa-user {
+    font-size: 25px;
+    padding-left: 7px;
+ }
+
+ .fa-envelope {
+    font-size: 25px;
+    padding-left: 6px;
+ }
 
 
 .bottomRightContainer {
@@ -148,6 +200,7 @@
 }
 
 .backforward a:hover {
+    cursor: pointer;
     color: rgba(255, 255, 255, 0.50);
 }
 

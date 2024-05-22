@@ -111,5 +111,5 @@ WD-ProjectName
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
 | Fonts | Have better looking fonts that can make the website look cleaner. | https://fonts.google.com/.
 | Icons and logo | To have Icons such as the home icon, contact icon, Facebook logo, Twitter logo, etc. | https://fontawesome.com/
-| Instagram | Instagram logo with a gradient color. | https://www.youtube.com/watch?v=im_uQNk50PY&t=234s |
+| Instagram | Instagram logo with a gradient color. | https://codepad.co/snippet/instagram-icon-gradient-with-font-awesome |
 | Background Image | Make the website look better. | https://unsplash.com/photos/blue-paint-splash-Lki74Jj7H-U |
