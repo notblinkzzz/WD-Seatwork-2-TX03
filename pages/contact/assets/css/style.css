@@ -324,12 +324,12 @@
 
 .rightMiddleContainer {
     display: flex;
-  /*  background: blueviolet;*/
+  /*background: blueviolet;*/
     height: 100%;
     width: 51%;
     border-radius: 40px;
     margin-left: 50px;
-    padding-top: 13%;
+    padding-top: 16.5%;
 }
 .textAreaContainer {
     width: 100%;
@@ -337,8 +337,8 @@
 }
 
 .inTouch {
-    font-size: 25px;
-    padding-left: 15px;
+    font-size: 18px;
+    padding-right: 70px;
     padding-bottom: 20px;
 }
 
