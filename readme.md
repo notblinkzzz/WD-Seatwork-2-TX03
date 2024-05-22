@@ -71,7 +71,6 @@ Guiding Question:
 - Transactional
 
 ### Technology
-<!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -116,3 +115,4 @@ WD-ProjectName
 | Skill Bar | Made the languages, and skills more pleasing to the eye. | https://www.w3schools.com/howto/howto_css_skill_bar.asp |
 | Gradient Color for the skill bars | The gradient showed the users how much percent is in terms of the colors. | https://cssgradient.io/ |
 | Contact Form | To make the default input text look better. | https://www.youtube.com/watch?v=524ycUqs3f0&t=804s |
+| Pagination | To have the ability to traverse the website. | https://www.youtube.com/watch?v=6ff96BkWqmg&t=196s |

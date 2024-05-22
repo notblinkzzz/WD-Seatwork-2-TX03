@@ -281,7 +281,7 @@
     
 }
 .experience {
-    
+    padding-left: 70px;
 }
 .language {
     padding-top: 5px;
@@ -289,7 +289,7 @@
 }
 .designSkills,
 .codingSkills {
-    padding-left: 40px;
+    padding-left: 85px;
 }
 
 .middleTextContainer {
