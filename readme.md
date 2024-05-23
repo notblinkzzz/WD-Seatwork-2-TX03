@@ -9,7 +9,7 @@
     <img src="./assets/img/Untitled__2_-removebg-preview.png" width="350" height="200">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Blinkz</h3>
+  <h3 align="center">WD-Seatwork-2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
