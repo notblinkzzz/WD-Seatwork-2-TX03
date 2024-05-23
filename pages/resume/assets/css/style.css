@@ -273,10 +273,6 @@
     color: #333333;
 }
 
-.education {
-    padding-left: 40px;
-}
-
 .experience {
     padding-left: 70px;
 }
@@ -329,13 +325,13 @@
     padding-bottom: 30px;
 }
 
-.innerMiddleTextContainer {
+/* .innerMiddleTextContainer {
     display: flex;
     background: #6082B6;
     height: 90%;
     width: 1%;
     border-radius: 40px;
-}
+} */
 
 .rightTextContainer {
     display: flex;
@@ -351,5 +347,5 @@
 
 .fillSpace {
     /*background: blueviolet;*/
-    height: 36%;
+    height: 35.5%;
 }

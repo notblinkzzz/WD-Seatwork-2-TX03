@@ -404,6 +404,7 @@
     cursor: pointer;
 }
 
-
-
-
+.submitButton button:active {
+    background: #2C3E50;
+    color: white;
+}
