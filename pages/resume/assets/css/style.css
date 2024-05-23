@@ -346,6 +346,17 @@
 }
 
 .fillSpace {
-    /*background: blueviolet;*/
     height: 35.5%;
+    text-align: center;
+}
+.fillSpace p {
+    font-size: small;
+}
+
+.fillSpace:hover {
+    cursor: pointer;
+    background-image: url(/pages/resume/assets/img/crying-cat-sad-cat.gif);
+    background-repeat: no-repeat;
+
+
 }

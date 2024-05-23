@@ -116,3 +116,5 @@ WD-ProjectName
 | Gradient Color for the skill bars | The gradient color is designed to visually represent the proficiency level of various skills in a way that is easily understandable. | https://cssgradient.io/ |
 | Contact Form | To make the default input text look better. | https://www.youtube.com/watch?v=524ycUqs3f0&t=804s |
 | Pagination | To have the ability to traverse the website. | https://www.youtube.com/watch?v=6ff96BkWqmg&t=196s |
+| Home Page Animation | To have a simple animation of text | https://www.youtube.com/watch?v=Syg_9iB1vco |
+| Hover Gif on Resume | When hovered on Work experience it hovers an image | https://tenor.com/view/crying-cat-sad-cat-me-when-i-dont-get-orod-tickets-gif-13399313231964052110 |
