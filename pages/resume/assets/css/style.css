@@ -1,4 +1,4 @@
-* {     /*THIS IS FOR RESUME*/
+* {     /*RESUME*/
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -151,7 +151,7 @@
 
 .navbar a.active {
     color: white;
-    }
+}
 
 .navbar a:hover:not(.active) {
     color: rgba(118, 171, 190, 0.562);
@@ -162,7 +162,7 @@
 }
 
 .navbar ul li {
-    margin-bottom: 100%; 
+    margin-bottom: 100%;
 }
 
 .navbar a {
@@ -187,7 +187,6 @@
     padding-left: 3px;
  }
 
-
 .fa-user {
     font-size: 25px;
     padding-left: 7px;
@@ -197,7 +196,6 @@
     font-size: 25px;
     padding-left: 6px;
  }
-
 
 .bottomRightContainer {
     display: flex;
