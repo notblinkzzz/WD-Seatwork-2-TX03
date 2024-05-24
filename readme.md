@@ -55,20 +55,24 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+This is a MultiPage Website of a resume that has other features, such as contact forms, a side navigation bar, and more. It is made with numerous divs that act like a container that has columns and rows for every section. Within those containers, I control how I want them to be displayed and such. The website has animations, hover/active effects, skill bars. I resourced some of the mentioned things, but the website or layout itself is made from scratch. This project took me almost 2 days to make, and while making it, I learned lots of new things.
 
-Guiding Question:
+<!-- Guiding Question:
 - What is the project
 - Whats the purpose
 - What are key components
-- What technology used and how it is used
+- What technology used and how it is used -->
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Text Animation
+- Social Icons Animation
+- Hover and Active Effects
+- Pagination
+- Skill Bars
+- Gradient Colors
+- Contact Form
+- Side navbar
 
 ### Technology
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -107,9 +111,9 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Reference Website | This is where I based my website. This site looked really good, and fun to recreate | https://lmpixels.com/demo/breezycv/dark/1/index.html#resume |
-| Fonts | Have better looking fonts that can make the website look cleaner. | https://fonts.google.com/.
-| Icons and logo | To have Icons such as the home icon, contact icon, Facebook logo, Twitter logo, etc. | https://fontawesome.com/
+| Reference Website | This is the site I based my website on. It looked really good and was fun to recreate from scratch. | https://lmpixels.com/demo/breezycv/dark/1/index.html#resume |
+| Fonts | Have better looking fonts that makes the website look cleaner. | https://fonts.google.com/.
+| Icons and logo | To have icons such as the home icon, contact icon, Facebook logo, Twitter logo, etc. | https://fontawesome.com/ |
 | Instagram | Instagram logo with a gradient color. | https://codepad.co/snippet/instagram-icon-gradient-with-font-awesome |
 | Background Image | Make the website look better. | https://unsplash.com/photos/blue-paint-splash-Lki74Jj7H-U |
 | Skill Bar | Made the languages, and skills more pleasing to the eye. | https://www.w3schools.com/howto/howto_css_skill_bar.asp |

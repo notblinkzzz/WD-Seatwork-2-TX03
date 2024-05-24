@@ -340,14 +340,6 @@
     padding-bottom: 0px;
 }
 
-/* .innerMiddleTextContainer {
-    display: flex;
-    background: #6082B6;
-    height: 90%;
-    width: 1%;
-    border-radius: 40px;
-} */
-
 .rightTextContainer {
     display: flex;
     padding-left: 10px;
@@ -370,6 +362,6 @@
 
 .fillSpace:hover {
     cursor: pointer;
-    background-image: url(/pages/resume/assets/img/crying-cat-sad-cat.gif);
+    background-image: url(/pages/resume/assets/gif/crying-cat-sad-cat.gif);
     background-repeat: no-repeat;
 }
