@@ -153,33 +153,33 @@
     background: #2C3E50;
 }
 
-.navbar a.active {
+.navBar a.active {
     color: white;
-    }
+}
 
-.navbar a:hover:not(.active) {
+.navBar a:hover:not(.active) {
     color: rgba(118, 171, 190, 0.562);
 }
 
-.navbar ul{
+.navBar ul{
     list-style-type: none;
 }
 
-.navbar ul li {
+.navBar ul li {
     margin-bottom: 100%;
 }
-.navbar a {
+.navBar a {
     color: rgb(118, 171, 190);
     text-decoration: none;
     display: block;
 }
 
-.navbar a:hover {
+.navBar a:hover {
     color: rgba(255, 255, 255, 0.788);
 }
 
 .fa-house {
-   margin-top: 27px;    /*nagauto adjust size di ko alam bakit basta 27px na pampantay*/
+   margin-top: 27px;    /* ICONS NEED TO HAVE KEBAB CASES TO WORK */
    font-size: 25px;
    padding-left: 4px;
    border-radius: 160px;
@@ -196,7 +196,7 @@
     padding-left: 7px;
  }
 
- .navbar .fa-envelope {
+ .navBar .fa-envelope {
     font-size: 25px;
     padding-left: 6px;
  }
@@ -213,16 +213,16 @@
     align-items: center;
 }
 
-.backforward ul{
+.backForward ul{
     list-style-type: none;
 }
 
-.backforward a {
+.backForward a {
     color: rgb(118, 171, 190);
     text-decoration: none;
 }
 
-.backforward a:hover {
+.backForward a:hover {
     cursor: pointer;
     color: rgba(118, 171, 190, 0.603);
 }

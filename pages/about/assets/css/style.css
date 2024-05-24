@@ -26,7 +26,7 @@
 
 .middleinnerContainer {
     display: flex;
-    background: #F2F2F2; 
+    background: #F2F2F2;
     width: 115vh;
     border-radius: 40px;
 }
@@ -241,33 +241,33 @@
     background: #2C3E50;
 }
 
-.navbar a.active {
+.navBar a.active {
     color: white;
     }
 
-.navbar a:hover:not(.active) {
+.navBar a:hover:not(.active) {
     color: rgba(118, 171, 190, 0.562);
 }
 
-.navbar ul{
+.navBar ul{
     list-style-type: none;
 }
 
-.navbar ul li {
-    margin-bottom: 100%; 
+.navBar ul li {
+    margin-bottom: 100%;
 }
 
-.navbar a {
+.navBar a {
     color: rgb(118, 171, 190);
     text-decoration: none;
     display: block;
 }
 
-.navbar a:hover {
+.navBar a:hover {
     color: rgba(255, 255, 255, 0.74);
 }
 
-.fa-house {
+.fa-house {         /*ICONS NEEDS TO HAVE KEBAB CASES TO WORK*/
    margin-top: 20px;
    font-size: 25px;
    padding-left: 4px;
@@ -302,16 +302,16 @@
     align-items: center;
 }
 
-.backforward ul{
+.backForward ul{
     list-style-type: none;
 }
 
-.backforward a {
+.backForward a {
     color: rgb(118, 171, 190);
     text-decoration: none;
 }
 
-.backforward a:hover {
+.backForward a:hover {
     cursor: pointer;
     color: rgba(118, 171, 190, 0.603);
 }
