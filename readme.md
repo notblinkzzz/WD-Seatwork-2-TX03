@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/notblinkzzz/">  <!--a href="https://github.com/zyx-0314/"> -->
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/Untitled__2_-removebg-preview.png" width="350" height="200">
   </a>
@@ -55,8 +55,9 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-This is a MultiPage Website of a resume that has other features, such as contact forms, a side navigation bar, and more. It is made with numerous divs that act like a container that has columns and rows for every section, and within those containers, I can control how I want them to be displayed and such. The website has animations, hover/active effects, skill bars. I based my website on an actual sample website I found on the internet, I also resourced some of  icons, effects and others, but the creating the website itself is made from scratch. This project took me almost 2 days to make, and while making it, I learned lots of new things.
-
+This is a MultiPage Website of a resume that has other features, such as contact forms, a side navigation bar, and more. It is made with numerous divs that act like a container that has columns and rows for every section, and within those containers, I can control how I want them to be displayed and such. The website has animations, hover/active effects, and skill bars.
+I based my website on an actual sample website I found on the internet. I used HTML and CSS to create this website. I also sourced some icons, effects, and other animations from YouTube or Google, but the website itself was created from scratch.
+This project took me almost 2 days to make, and while making it, I learned lots of new things.
 <!-- Guiding Question:
 - What is the project
 - Whats the purpose
