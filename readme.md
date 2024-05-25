@@ -55,7 +55,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-This is a multi-page and non-responsive website for a resume that has other features, such as contact forms, a side navigation bar, and more. It is made with numerous divs that act like a container that has columns and rows for every section, and within those containers, I can control how I want them to be displayed and such. The website has animations, hover/active effects, and skill bars.<br>
+This is a multi-page, non-responsive website for a resume that has other features, such as contact forms, a side navigation bar, and more. It is made with numerous divs that act like a container that has columns and rows for every section, and within those containers, I can control how I want them to be displayed and such. The website has animations, hover/active effects, and skill bars.<br>
 I based my website on an actual sample website I found on the internet. I used HTML and CSS to create this website. I also sourced some icons, effects, and other animations from YouTube or Google, but the website itself was created from scratch.<br>
 This project took me almost 2 days to make, and while making it, I learned lots of new things.
 <!-- Guiding Question:
